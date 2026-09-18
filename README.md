@@ -339,8 +339,6 @@ Senzorul de ambrozie expune în atribute link-ul de informare (`civic_map_url`),
 
 If you enjoy this integration and want to support its ongoing development and maintenance:
 
-> *Free to use, but not free to maintain. Sponsorship helps keep the project healthy and growing.*
-
 <a href="https://www.buymeacoffee.com/ygreq">
   <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
 </a>
