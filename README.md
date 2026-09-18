@@ -9,12 +9,16 @@
 [![HACS Custom](https://img.shields.io/badge/HACS-Custom-orange.svg?style=for-the-badge)](https://github.com/hacs/default)
 [![Validate](https://github.com/ygreq/pollen-tracker-ha/actions/workflows/validate.yml/badge.svg?style=for-the-badge)](https://github.com/ygreq/pollen-tracker-ha/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ygreq)
 
 </div>
 
 An intelligent Home Assistant integration for **comprehensive seasonal pollen, allergen, and ragweed forecasting** across Europe, powered by the European Union's **Copernicus Atmosphere Monitoring Service (CAMS Europe)** via the free **Open-Meteo Air Quality API**.
 
 No physical sensor required! Provides hourly regional forecasts, peak exposure hours, 3-hour trend analysis, an optimal daily **Smart Ventilation Window** algorithm, and civic reference links for reporting physical plant sightings in Romania (HartaAmbroziei.ro).
+
+> ☕ **Free to use, but not free to maintain. Sponsorship helps keep the project healthy and growing:**  
+> [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ygreq) &nbsp; [buymeacoffee.com/ygreq](https://www.buymeacoffee.com/ygreq)
 
 > [!IMPORTANT]
 > **🌍 Geographic Coverage: Europe Only (Copernicus CAMS)**
@@ -328,6 +332,20 @@ Senzorul de ambrozie expune în atribute link-ul de informare (`civic_map_url`),
    * *Foarte redus (<5)*, *Redus (5–10)*, *Moderat (10–30)*, *Ridicat (30–100)*, *Foarte ridicat (≥100)*.
 5. **Bilingv Nativ & Atribute Bilingve:**
    * Toate denumirile, valorile și atributele sunt disponibile bilingv (`_ro` și `_en`).
+
+---
+
+## ☕ Support / Susținere
+
+If you enjoy this integration and want to support its ongoing development and maintenance:
+
+> *Free to use, but not free to maintain. Sponsorship helps keep the project healthy and growing.*
+
+<a href="https://www.buymeacoffee.com/ygreq">
+  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+</a>
+
+Or visit: [buymeacoffee.com/ygreq](https://www.buymeacoffee.com/ygreq)
 
 ---
 
