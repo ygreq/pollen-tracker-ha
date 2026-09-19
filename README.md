@@ -343,7 +343,7 @@ If you find this integration useful and would like to buy me a coffee / Dacă ac
   <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
 </a>
 
-Or visit: [buymeacoffee.com/ygreq](https://www.buymeacoffee.com/ygreq)
+Direct link / Link direct: [buymeacoffee.com/ygreq](https://buymeacoffee.com/ygreq)
 
 ---
 
