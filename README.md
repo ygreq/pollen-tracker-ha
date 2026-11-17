@@ -339,11 +339,21 @@ Senzorul de ambrozie expune în atribute link-ul de informare (`civic_map_url`),
 
 If you find this integration useful and would like to buy me a coffee / Dacă această integrare îți este de folos și vrei să-mi faci cinste cu o cafea:
 
-<a href="https://www.buymeacoffee.com/ygreq">
-  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-</a>
+<p>
+  <a href="https://www.buymeacoffee.com/ygreq" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="44" alt="Buy Me A Coffee" />
+  </a>
+  &nbsp;
+  <a href="https://paypal.me/ygreqro" target="_blank">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="44" alt="PayPal" />
+  </a>
+  &nbsp;
+  <a href="https://revolut.me/ygreqro" target="_blank">
+    <img src="https://img.shields.io/badge/Revolut-191C1F?style=for-the-badge&logo=revolut&logoColor=white" height="44" alt="Revolut" />
+  </a>
+</p>
 
-Direct link / Link direct: [buymeacoffee.com/ygreq](https://buymeacoffee.com/ygreq)
+Direct links / Link-uri directe: [buymeacoffee.com/ygreq](https://www.buymeacoffee.com/ygreq) | [paypal.me/ygreqro](https://paypal.me/ygreqro) | [revolut.me/ygreqro](https://revolut.me/ygreqro)
 
 ---
 
